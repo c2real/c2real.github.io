@@ -30,7 +30,7 @@ twitter_username: code2real
 github_username:  c2real
 
 # Build settings
-theme: minima
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
