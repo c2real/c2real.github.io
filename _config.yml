@@ -32,7 +32,7 @@ twitter_username: code2real
 github_username:  c2real
 
 # Build settings
-theme: jekyll-theme-merlot
+#theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
