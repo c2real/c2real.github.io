@@ -58,7 +58,7 @@ exec s6-setuidgid nobody php /var/www/ttrss/update_daemon2.php
 
 最后需要修改 src/configure-db.php这个文件，如果容器已经存在，则可以通过 
 
-```
+```sh
 docker exec -it ttrss sh
 ```
 
