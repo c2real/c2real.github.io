@@ -64,17 +64,12 @@ docker exec -it ttrss sh
 
 进入容器，在其内部修改
 
-```php+HTML
-<?php
+```php
 
 $confpath = '/var/www/ttrss/config.php';
-
 $config = array();
 
-...
 ```
-
-
 
 Enjoy it!
 
